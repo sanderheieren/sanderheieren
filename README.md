@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 👋 I'm Sander Heieren</h1>
-<h3 align="center">A passionate fullstack developer from Norway, Fredrikstad</h3>
+<h3 align="center">A passionate fullstack developer from Norway</h3>
 
 - 📫 How to reach me **sanheieren@gmail.com**
 
