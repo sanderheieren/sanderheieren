@@ -15,5 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanderheieren&show_icons=true&locale=en&layout=compact" alt="sanderheieren" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanderheieren&show_icons=true&locale=en" alt="sanderheieren" /></p>
 
