@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sander Heieren</h1>
+<h1 align="center">Welcome 👋 I'm Sander Heieren</h1>
 <h3 align="center">A passionate frontend developer from Norway, Fredrikstad</h3>
 
 - 📫 How to reach me **sanheieren@gmail.com**
